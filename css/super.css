@@ -1,5 +1,5 @@
 .container_12{
-  background-color: #F5F5F5;
+  background-color:#F0E68C;
 
 }
 .grid_8 li{
@@ -8,7 +8,7 @@
 
 }
 ul{
-  margin-top: 30px;
+  margin-top: 40px;
 }
 li a{
   text-decoration: none;
@@ -25,10 +25,9 @@ footer {
   background-color: #cccccc;
   text-align: center;
 }
-body{
+.main body {
   font-style: Sans-Serif;
-  font-size: 15px;
-  margin:20px auto;
+margin-top: 100px;
   line-height: 35px;
 }
 a:hover{
@@ -37,4 +36,23 @@ font-style:italic;
 }
 .grid_8{
   color: blue;
+}
+header{
+  width: auto;
+  height:100px;
+  position:fixed;
+background-color:lightblue;
+}
+body{
+  font-style: sans-serif;
+  margin-top:auto;
+  font-size: 18px;
+background-color: #F5F5F5;
+}
+.main{
+  margin-top: 100px;
+background:#E0FFFF;
+}
+.hero{
+  background:lightyellow;
 }
